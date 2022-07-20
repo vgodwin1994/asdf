@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>classes and ID in HTML</title>
+	<style type="text/css">
+		.head1{
+			color: lightcyan;
+			font-family: cursive;
+			background-color: black;
+		}
+
+
+		.head2{
+			color: lightpink;
+			background-color: indianred;
+
+		}
+
+		.head3{
+			color: orangered;
+			background-color: blue;
+
+		}
+
+		.head5{
+			color: red;
+			background-color:blanchedalmond;
+		
+
+
+	</style>
+</head>
+<body>
+<h1 class= "head1"> This is the heading 1</h1>
+<h2 class= "head2"> This is the heading 2</h2>
+<h3 class= "head3"> This is the heading 3</h3>
+<h4 class= "head4"> This is the heading 4</h4>
+<h4 class= "head5"> Vic Creatives/Consulting </h4>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Drop Down In HTML</title>
+	<link rel="stylesheet" type="text/css" href="">
+<head>
+</body>
+
+	<uI>
+	<li><a href="#">Home</a><li>
+	<li><a href="#">About</a><li>
+	   <ul>
+		<li><a href="#">Team</a><li>
+		<li><a href="#">Client</a><li>
+		<li><a href="#">Career</a><li>
+		<li><a href="#">Legacy</a><li>
+	  </ul>
+
+<li><a href="">Contacts</a>
+   </ul>
+		<li><a href="#">Email</a><li>
+		<li><a href="#">Phone</a><li>
+		<li><a href="#">Twitter</a><li>
+		<li><a href="#">Linkden</a><li>	
+</ul>
+
+</li>
+
+<li><a href="#">Services</a><li>
+<li><a href="#">News</a><li>
+		
+	</ul>
+	</body>
+	<html>
+
+
+<body{
+	backg
+}
+\
